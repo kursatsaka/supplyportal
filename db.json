@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "supplyType": [
+    { "id": 1, "name": "Hammadde" },
+    { "id": 2, "name": "Servis Hizmetleri" },
+    { "id": 3, "name": "Diğer" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "companyOrigin": [
+    { "id": 1, "name": "Türkiye" },
+    { "id": 2, "name": "Almanya" },
+    { "id": 2, "name": "Çin" },
+    { "id": 2, "name": "İsveç" },
   ],
-  "profile": {
-    "name": "typicode"
+  "companyType": {
+    { "id": 1, "name": "Anonim şirket" },
+    { "id": 1, "name": "Limited şirket " },
+    { "id": 1, "name": "Komandit şirket" },
+    { "id": 1, "name": "Kollektif şirket" },
+    { "id": 1, "name": "Kooperatif şirket" }
   }
 }
