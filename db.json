@@ -7,14 +7,14 @@
   "companyOrigin": [
     { "id": 1, "name": "Türkiye" },
     { "id": 2, "name": "Almanya" },
-    { "id": 2, "name": "Çin" },
-    { "id": 2, "name": "İsveç" },
+    { "id": 3, "name": "Çin" },
+    { "id": 4, "name": "İsveç" },
   ],
   "companyType": [
     { "id": 1, "name": "Anonim şirket" },
-    { "id": 1, "name": "Limited şirket " },
-    { "id": 1, "name": "Komandit şirket" },
-    { "id": 1, "name": "Kollektif şirket" },
-    { "id": 1, "name": "Kooperatif şirket" }
+    { "id": 2, "name": "Limited şirket " },
+    { "id": 3, "name": "Komandit şirket" },
+    { "id": 4, "name": "Kollektif şirket" },
+    { "id": 5, "name": "Kooperatif şirket" }
   ]
 }
