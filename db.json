@@ -10,11 +10,11 @@
     { "id": 2, "name": "Çin" },
     { "id": 2, "name": "İsveç" },
   ],
-  "companyType": {
+  "companyType": [
     { "id": 1, "name": "Anonim şirket" },
     { "id": 1, "name": "Limited şirket " },
     { "id": 1, "name": "Komandit şirket" },
     { "id": 1, "name": "Kollektif şirket" },
     { "id": 1, "name": "Kooperatif şirket" }
-  }
+  ]
 }
