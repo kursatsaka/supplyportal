@@ -8,7 +8,7 @@
     { "id": 1, "name": "Türkiye" },
     { "id": 2, "name": "Almanya" },
     { "id": 3, "name": "Çin" },
-    { "id": 4, "name": "İsveç" },
+    { "id": 4, "name": "İsveç" }
   ],
   "companyType": [
     { "id": 1, "name": "Anonim şirket" },
