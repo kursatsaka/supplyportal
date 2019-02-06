@@ -16,5 +16,51 @@
     { "id": 3, "name": "Komandit şirket" },
     { "id": 4, "name": "Kollektif şirket" },
     { "id": 5, "name": "Kooperatif şirket" }
-  ]
+  ],
+  "cities": [
+    { "id": 1, "name": "İstanbul" },
+    { "id": 2, "name": "Ankara " },
+    { "id": 3, "name": "İzmir" },
+    { "id": 4, "name": "Bursa" }
+  ],
+  "companyDistricts": [
+    { "id": 1, "name": "Beşiktaş", "cityId" : 1 },
+    { "id": 2, "name": "Kadıköy " , "cityId" : 1 },
+    { "id": 3, "name": "Maltepe" , "cityId" : 1},
+    { "id": 4, "name": "Keçiören" , "cityId" : 2 },
+    { "id": 5, "name": "Çankaya" ,  "cityId" : 2},
+    { "id": 6, "name": "Konak" ,  "cityId" : 3},
+    { "id": 7, "name": "Torbalı" ,  "cityId" : 3},
+    { "id": 8, "name": "Osmangazi" ,  "cityId" : 4},
+    { "id": 9, "name": "Nilüfer" ,  "cityId" : 4}
+  ],
+  "companySegments": [
+    { "id": 1, "name": "Aksesuar" },
+    { "id": 2, "name": "Ev Tekstili" },
+    { "id": 3, "name": "Konfeksiyon" }
+  ],
+  "companyChildSegments": [
+    { "id": 1, "name": "Ayakkabı", "segmentId" : 1 },
+    { "id": 2, "name": "Banyo", "segmentId" : 1},
+    { "id": 3, "name": "Çorap","segmentId" : 1},
+    { "id": 4, "name": "Banyo", "segmentId" : 2},
+    { "id": 5, "name": "Mutfak","segmentId" : 2 },
+    { "id": 6, "name": "Triko", "segmentId" : 3},
+    { "id": 7, "name": "Pijama","segmentId" : 3}
+  ],
+  "companyBusinessLines":[
+    { "id": 1, "name": "Babet", "segmentId" : 1 },
+    { "id": 2, "name": "Ev Çorabı", "segmentId" : 1},
+    { "id": 3, "name": "Renkli Kozmatik","segmentId" : 1},
+    { "id": 4, "name": "Bornoz", "segmentId" : 2},
+    { "id": 5, "name": "Havlu","segmentId" : 2 },
+    { "id": 6, "name": "Atlet", "segmentId" : 3},
+    { "id": 7, "name": "Bluz","segmentId" : 3}
+  ],
+  "companyAgeGroups": [
+    { "id": 1, "name": "Bayan"},
+    { "id": 2, "name": "Erkek"},
+    { "id": 3, "name": "Erkek Bebek"},
+    { "id": 4, "name": "Kız Bebek"}
+  ]  
 }
