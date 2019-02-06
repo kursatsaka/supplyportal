@@ -11,11 +11,8 @@
     { "id": 4, "name": "İsveç" }
   ],
   "companyType": [
-    { "id": 1, "name": "Anonim şirket" },
-    { "id": 2, "name": "Limited şirket " },
-    { "id": 3, "name": "Komandit şirket" },
-    { "id": 4, "name": "Kollektif şirket" },
-    { "id": 5, "name": "Kooperatif şirket" }
+    { "id": 1, "name": "Firma" },
+    { "id": 2, "name": "Şahıs " }
   ],
   "cities": [
     { "id": 1, "name": "İstanbul" },
