@@ -1,16 +1,16 @@
 {
-  "supplyType": [
+  "supplyTypes": [
     { "id": 1, "name": "Hammadde" },
     { "id": 2, "name": "Servis Hizmetleri" },
     { "id": 3, "name": "Diğer" }
   ],
-  "companyOrigin": [
+  "companyOrigins": [
     { "id": 1, "name": "Türkiye" },
     { "id": 2, "name": "Almanya" },
     { "id": 3, "name": "Çin" },
     { "id": 4, "name": "İsveç" }
   ],
-  "companyType": [
+  "companyTypes": [
     { "id": 1, "name": "Firma" },
     { "id": 2, "name": "Şahıs " }
   ],
